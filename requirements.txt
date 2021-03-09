@@ -1,0 +1,6 @@
+awscli==1.19.17
+boto3==1.17.17
+botocore==1.20.17
+discord.py==1.6.0
+mcstatus==5.1.1
+requests==2.24.0
